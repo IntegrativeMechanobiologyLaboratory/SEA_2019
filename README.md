@@ -25,4 +25,8 @@ Documentation:  https://lawsie.github.io/guizero/start/
 
 Documentation: https://picamera.readthedocs.io/en/release-1.13/quickstart.html
 
+#### a different version of the project on raspberrypi.org
+https://projects.raspberrypi.org/en/projects/explorer-hat-buggy
+
+
 
