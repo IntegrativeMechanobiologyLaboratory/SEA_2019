@@ -1,8 +1,7 @@
 # SEA_2019
-# Automation using single-board computers
-Summer Engineering Academy 2019
-University of South Alabama, College of Engineering
-Mechanical Engineering
+## Summer Engineering Academy 2019
+## Automation using single-board computers
+### University of South Alabama, College of Engineering
 
 
 python - programming language we will use in this session
