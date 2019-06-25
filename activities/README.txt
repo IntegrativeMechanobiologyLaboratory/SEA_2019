@@ -1,14 +1,25 @@
-(1) Mine sweeping
-- Move the MRV on a chessboard and find which squares have mine on them. Position of the square should be obtained using information from camera.
+- Connect clipboard computer
+- Getting to know the Raspberry Pi
+- Linux OS
+- Terminal
+- Python
+- https://www.w3schools.com/python/default.asp
 
-(2) Using hall effect sensor to capture image
-- Magnet will switch off the sensor and this will trigger camera
+- Disconnect clipboard computer and connect MRV through powerline
+- Teamviewer (note ID)
+- Explorerhat
+- Light sensor
+- Hall effect sensor
+- Camera
+- Motors
+- Get ready ... (tape things, stable support for camera, stable handle for minesweeper)
 
-(4) Use radiation data to adjust camera parameters (exposure, shutter speed etc)
+- Disconnect MRV - disconnect powerline - connect battery
+- Connect clipboard computer - connect to MRV through Teamviewer
+- Test mrv.py
+- Go sweep mines, record radiations, and collect images
 
-(3) Accurate positioning
-- Using speed and time for motion, reach at an accurate position
-- Proof of accuracy can be gained by having the MRV take a picture of precisely located object to be at the center of the image with box around the object that must appear sqauare instead of rectangle.
+- Treasure hunt
 
-(5) Use to turn on a light on MRV to take a better picture
+- Advanced - tune the shutter speed and exposure with light sensor
 
