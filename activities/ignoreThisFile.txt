@@ -1,0 +1,15 @@
+(1) Mine sweeping
+- Move the MRV on a chessboard and find which squares have mine on them. Position of the square should be obtained using information from camera.
+
+(2) Using hall effect sensor to capture image
+- Magnet will switch off the sensor and this will trigger camera
+
+(4) Use radiation data to adjust camera parameters (exposure, shutter speed etc)
+
+(3) Accurate positioning
+- Using speed and time for motion, reach at an accurate position
+- Proof of accuracy can be gained by having the MRV take a picture of precisely located object to be at the center of the image with box around the object that must appear sqauare instead of rectangle.
+
+(5) Use to turn on a light on MRV to take a better picture
+
+
