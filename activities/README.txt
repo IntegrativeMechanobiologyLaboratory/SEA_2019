@@ -7,6 +7,11 @@
 
 - Disconnect clipboard computer and connect MRV through powerline
 - Teamviewer (note ID)
+    - reinstall with following commands (only if it is not working!!!)
+    - sudo apt remove teamviewer
+    - wget https://download.teamviewer.com/download/linux/teamviewer-host_armhf.deb
+    - sudo apt-get -f install ./teamviewer-host_armhf.deb
+    - teamviewer
 - Explorerhat
 - Light sensor
 - Hall effect sensor
