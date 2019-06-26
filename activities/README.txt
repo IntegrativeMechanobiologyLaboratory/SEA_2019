@@ -6,21 +6,16 @@
 - https://www.w3schools.com/python/default.asp
 
 - Disconnect clipboard computer and connect MRV through powerline
-- Teamviewer (note ID)
-    - reinstall with following commands (only if it is not working!!!)
-    - sudo apt remove teamviewer
-    - wget https://download.teamviewer.com/download/linux/teamviewer-host_armhf.deb
-    - sudo apt-get -f install ./teamviewer-host_armhf.deb
-    - teamviewer
+- VNC (note ID)
 - Explorerhat
-- Light sensor
-- Hall effect sensor
 - Camera
 - Motors
+- Hall effect sensor
+- Light sensor (CAUTION! when connecting, make sure that the end of the resistor in 5V does not touch the end of the LDR in GND)
 - Get ready ... (tape things, stable support for camera, stable handle for minesweeper)
 
 - Disconnect MRV - disconnect powerline - connect battery
-- Connect clipboard computer - connect to MRV through Teamviewer
+- Connect clipboard computer - connect to MRV through VNC Viewer
 - Test mrv.py
 - Go sweep mines, record radiations, and collect images
 
