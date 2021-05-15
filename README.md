@@ -1,5 +1,5 @@
 # Mini Reconnaissance Vehicle (MRV)
-## Summer Engineering Academy 2019, University of South Alabama, College of Engineering
+## Summer Engineering Academy, University of South Alabama, College of Engineering
 
 ### Automation using single-board computers
 
